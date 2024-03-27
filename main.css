@@ -1,0 +1,16 @@
+p {
+    font-size: x-large;
+}
+
+h1 {
+    background-color: beige;
+}
+
+.professor{
+    color: brown;
+    text-shadow: 2ex;
+}
+
+#curso {
+    text-align: center;
+}
