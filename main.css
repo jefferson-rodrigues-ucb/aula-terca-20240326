@@ -14,3 +14,9 @@ h1 {
 #curso {
     text-align: center;
 }
+
+.imagem-java {
+    width: 400px;
+    height: 300px;
+    border-radius: 50px;
+}
